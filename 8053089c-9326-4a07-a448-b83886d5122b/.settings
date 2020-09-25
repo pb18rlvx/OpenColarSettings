@@ -1,2 +1,3 @@
-GLOBAL=DeviceName~Heart Choker~strict~1~locked~1
+GLOBAL=strict~1~locked~1
 AUTH=public~1~norun~1
+RELAY=mode~2~wearer~0
