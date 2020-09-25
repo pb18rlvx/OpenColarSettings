@@ -1,0 +1,9 @@
+GLOBAL=DeviceName~OpenCollar~locked~1~strict~1~touchNotify~1
+RLVSYS=on~1
+AUTH=owner~43d19aa0-0872-413f-a9ca-7c18aef5db6e,nessasub Resident~norun~1
+RELAY=mode~1035
+BELL=off~503~show~0
+LABEL=show~1~text~Nessa's property
+SUBSPY=listen~1~trace~1~wearer_only~0~online~1~instant~0
+PARTICLE=C_Texture~Chain~ParticleMode~Classic
+LEASH=strict~1,500
