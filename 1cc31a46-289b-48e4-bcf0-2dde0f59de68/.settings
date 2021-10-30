@@ -1,3 +1,10 @@
-GLOBAL=strict~1~locked~1
-AUTH=owner~1cc31a46-289b-48e4-bcf0-2dde0f59de68,ANDr34z Resident~norun~1~vanilla~0
-RELAY=mode~2~wearer~0
+settings=nocomma~1
+global=strict~1
+global=locked~1
+auth=public~1
+auth=norun~1
+auth=vanilla~0
+auth=owner~1cc31a46-289b-48e4-bcf0-2dde0f59de68
+auth=runaway~0
+relay=mode~2
+relay=wearer~0
